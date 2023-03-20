@@ -1,0 +1,34 @@
+body {
+
+  background-image:url("https://wallpaperaccess.com/full/1567666.png");
+  justify-content: center;
+  align-items: center;
+
+}
+
+*{
+  font-family: cursive;
+}
+
+h1 {
+
+  text-align: center;
+  color: rgb(255, 255, 255);
+
+}
+
+a {
+
+
+  background: rgb(0, 0, 0);
+  padding: 20px 30px;
+  color: #faefef;
+  border-radius: 100px;
+  border: none;
+  text-decoration: none;
+
+}
+/*for registration button */
+a:hover{
+  opacity: .9;
+}
